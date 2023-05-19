@@ -523,6 +523,15 @@ footer .resaux-sociaux{
 /*media page accuil */
 
 @media(max-width:500px){
+  nav {
+    padding: 15px 35px;
+  }
+  #border-left-resaux-sociaux{
+    left: 15px;
+  }
+  .border-right-resaux-sociaux{
+    left: -8px;
+  }
   .panther-description h1 {
      font-size: 30px;
 }
